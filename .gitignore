@@ -2,5 +2,5 @@
 composer.lock
 composer.phar
 vendor/
-test/generated/User.php
+tests/generated/TestUser.php
 phpunit.xml
